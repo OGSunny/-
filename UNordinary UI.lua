@@ -1,24 +1,3 @@
---                                         ,----,
---  ,--,     ,--,        ,----,          .'   .`|
---  |'. \   / .`|      .'   .' \      .'   .'   ;          ,--,
---  ; \ `\ /' / ;    ,----,'    |   ,---, '    .'        ,'_ /|
---  `. \  /  / .'    |    :  .  ;   |   :     ./    .--. |  | :
---   \  \/  / ./     ;    |.'  /    ;   | .'  /   ,'_ /| :  . |
---    \  \.'  /      `----'/  ;     `---' /  ;    |  ' | |  . .
---     \  ;  ;         /  ;  /        /  ;  /     |  | ' |  | |
---    / \  \  \       ;  /  /-,      ;  /  /--,   :  | | :  ' ;
---   ;  /\  \  \     /  /  /.`|     /  /  / .`|   |  ; ' |  | '
--- ./__;  \  ;  \  ./__;      :   ./__;       :   :  | : ;  ; |
--- |   : / \  \  ; |   :    .'    |   :     .'    '  :  `--'   \
--- ;   |/   \  ' | ;   | .'       ;   |  .'       :  ,      .-./
--- `---'     `--`  `---'          `---'            `--`----'
-
--- All Credits : @x2zu
--- ngaku ngaku yatim ngentot di kasi gratis ngelunjak memek
--- 03-02-2025 > Changed UI Color Purple to blue gradient
--- Revolution : UNordinary > Stellar Create by x2zu
--- don't be stupid and be smart just give credit @x2zu
--- Discord Server x2zu best skid discord open source script everrrrrrrrrrrrrr : https://discord.gg/FmMuvkaWvG / discord.gg/x2zu Owner: @x2zu muhauhauhauhua
 local UNordinary = {};
 
 -- UNHub
@@ -4607,20 +4586,3 @@ UNordinary_MODULES[UNordinary["28"]] = {
 };
 
 return require(UNordinary["27"])
---                                         ,----,
---  ,--,     ,--,        ,----,          .'   .`|
---  |'. \   / .`|      .'   .' \      .'   .'   ;          ,--,
---  ; \ `\ /' / ;    ,----,'    |   ,---, '    .'        ,'_ /|
---  `. \  /  / .'    |    :  .  ;   |   :     ./    .--. |  | :
---   \  \/  / ./     ;    |.'  /    ;   | .'  /   ,'_ /| :  . |
---    \  \.'  /      `----'/  ;     `---' /  ;    |  ' | |  . .
---     \  ;  ;         /  ;  /        /  ;  /     |  | ' |  | |
---    / \  \  \       ;  /  /-,      ;  /  /--,   :  | | :  ' ;
---   ;  /\  \  \     /  /  /.`|     /  /  / .`|   |  ; ' |  | '
--- ./__;  \  ;  \  ./__;      :   ./__;       :   :  | : ;  ; |
--- |   : / \  \  ; |   :    .'    |   :     .'    '  :  `--'   \
--- ;   |/   \  ' | ;   | .'       ;   |  .'       :  ,      .-./
--- `---'     `--`  `---'          `---'            `--`----'
-
--- All Credits : @x2zu
--- ngaku ngaku yatim ngentot di kasi gratis ngelunjak memek
